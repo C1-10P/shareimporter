@@ -1,0 +1,15 @@
+{
+    "name": "Share Importer",
+    "description": "...",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "C1-10P"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
